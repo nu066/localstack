@@ -22,8 +22,8 @@ liable for anything you do with it.
 ## The Agreement
 
 By downloading, installing, using, or copying the Software, you accept and agree to be bound by the 
-terms of this EULA. If you do not agree to all of the terms of this EULA, you may not download, 
-install, use or copy the Software.
+terms of this EULA. If you do not agree to all of the terms of this EULA, you should not download and install 
+it on your system.
 
 ## The License
 
